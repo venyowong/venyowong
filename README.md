@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @venyowong
+- 👀 I’m a Chinese C#/.Net developer
+- 🌱 I have two domains: https://vbranch.cn, https://venyo.cn
+- 💞️ You can learn what I am doing by browsing these two websites
+- 📫 You can contact me via email(venyowong@163.com) or WeChat(vbranch)
